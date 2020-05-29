@@ -4,7 +4,7 @@
 
 import operator
 
-input_file = open("5_9.txt", 'r')
+input_file = open("db/Db_5_9.txt", 'r')
 Students = dict()
 Subjects = dict()
 for line in input_file:
